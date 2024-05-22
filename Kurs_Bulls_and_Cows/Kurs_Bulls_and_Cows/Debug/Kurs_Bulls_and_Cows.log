@@ -1,0 +1,25 @@
+﻿Построение начато 24.06.2021 21:07:08.
+     1>Проект "C:\Users\Юрий\OneDrive\Рабочий стол\Студентам_C++\5 вариант\курсовая\Kurs_Bulls_and_Cows\Kurs_Bulls_and_Cows\Kurs_Bulls_and_Cows.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Kurs_Bulls_and_Cows.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       CoreResGen:
+         Отсутствуют ресурсы, устаревшие по отношению к файлам своих источников. Пропуск формирования ресурсов.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         Kurs_Bulls_and_Cows.vcxproj -> C:\Users\Юрий\OneDrive\Рабочий стол\Студентам_C++\5 вариант\курсовая\Kurs_Bulls_and_Cows\Debug\Kurs_Bulls_and_Cows.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Kurs_Bulls_and_Cows.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Kurs_Bulls_and_Cows.lastbuildstate".
+     1>Построение проекта "C:\Users\Юрий\OneDrive\Рабочий стол\Студентам_C++\5 вариант\курсовая\Kurs_Bulls_and_Cows\Kurs_Bulls_and_Cows\Kurs_Bulls_and_Cows.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.61
